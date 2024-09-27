@@ -55,3 +55,4 @@ if(isEmpate){
 }
 determinarGanador();
 //Esto es todo lo que pude hacer, me quedaron varios errores como cuando se pasan de 5 en la puntuacion, no se como corregirlo.
+console.log("Hola");
